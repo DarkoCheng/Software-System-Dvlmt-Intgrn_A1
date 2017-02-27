@@ -1,5 +1,6 @@
 /*
 This is the main.c to test the assignment, should work perfectly.
+This file made by Professor David Calvert.
 */
 
 #include <stdio.h>
