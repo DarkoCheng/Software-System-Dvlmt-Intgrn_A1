@@ -1,4 +1,10 @@
 # CIS2750
+
+Student name: Darko
+Student ID: 81192
+Date: 1949/10/01
+CIS 2750 Assignment 1
+
 Assignment 1 - Develop a String Storage and Processing Library
 
 Build a system which stores strings in a linked structure. Write the function(s) necessary to process the string to remove redundant whitespace characters and format it using HTML tags. The strings can be stored and retrieved from binary files. 
